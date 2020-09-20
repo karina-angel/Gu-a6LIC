@@ -1,0 +1,35 @@
+table{
+    border-collapse: collapse;
+}
+table, td, th {
+    border: 2px solid darkorchid;
+    padding: 20px;
+    background-color:  darkturquoise;
+}
+
+button{
+    color:  black;
+    font-weight: bold;
+    background-color: darkturquoise;
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+}
+
+header{
+    font-size: 25px;
+    background: peachpuff;
+    color: #1f74ad;
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+    padding: 4px 0;
+    text-align: center;
+  }
+
+  html {
+    background-color: lightcyan;
+}
+
+h3{
+    font-size: 30px;
+}

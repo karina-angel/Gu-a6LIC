@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    background-color: lightgrey;
+}
+
+body {
+    font-size: 16px;
+   
+}
+
+
+header { 
+    
+        background-color:lightpink;
+        color: rgb(116, 108, 108);
+        font-family:"AR HERMANN" ;
+        font-size: 25px;
+        padding: 3px 0;
+        text-align: center;
+        text-shadow:  1px 1px yellow, 
+        2px 2px #02a2fe, 
+        3px 3px #02a2fe, 
+        4px 4px #02a2fe, 
+        5px 5px #02a2fe, 
+        6px 6px #02a2fe;
+ 
+}
+
+
+
+h3  {
+    color:black;
+    font-family: "AR CENA";
+    font-weight:600;
+    font-size:1.5em;
+    text-align:center;
+}
